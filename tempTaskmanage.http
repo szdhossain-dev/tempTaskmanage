@@ -1,0 +1,6 @@
+@tempTaskmanage_HostAddress = http://localhost:5079
+
+GET {{tempTaskmanage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
